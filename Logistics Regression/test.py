@@ -47,3 +47,4 @@ index = 0
 plt.imshow(x_test[index], cmap="gray")
 plt.title(f"Predicted: {np.argmax(predictions[index])}, Actual: {y_test[index]}")
 plt.show()
+fvddfvdfvgit

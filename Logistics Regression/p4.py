@@ -38,3 +38,4 @@ model.fit(x_train, y_train, epochs=5)
 test_loss, test_acc = model.evaluate(x_test, y_test)
 
 print(f"\nTest Accuracy: {test_acc:.4f}")
+bdvri
